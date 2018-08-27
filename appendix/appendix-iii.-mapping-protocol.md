@@ -1,4 +1,4 @@
-# Appendix III. Mapping Protocol
+# Appendix III. Mapping Protocoldsaf
 
 ## Directional RNA-seq data - which parameters to choose?
 
